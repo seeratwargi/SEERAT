@@ -25,11 +25,11 @@
        /**/**//////**/**   /    /**/**      /**      /**  //** 
  ******** /**     /**/**        /**/********/********/**   //**
 ////////  //      // //         // //////// //////// //     //                                                                                                                                                                                                                                       
-[√][1;35m〓〓〓〓〓〓〓〓〓〓【 TRICKER S33R9T BRAND 】〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓
-[√][1;32mCredit  : 【ROYAL PUNJAB RULEX 】
-[√][1;33mYoutuve  : 【】Trickbyseeratbrand
-[√][1;36m Tool  : ︻╦デ╤━╼ TRICK BY S33R9T BRAND╾━╤デ╦︻
-[√][1;35m〓〓〓〓〓〓〓〓〓〓【S33R9T BRAND WATSAPP LOD3R 】〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓`);
+[√][1;35m 👸 TRICKER S33R9T BRAND 👸
+[√][1;32m CREDIT  : 【ROYAL PUNJAB RULEX 】
+[√][1;33m YOUTUBE  : 【】Trickbyseeratbrand
+[√][1;36m TOOL OWNER : TRICK BY S33R9T BRAND
+[√][1;35m ( S33R9T BRAND WATSAPP LOD3R `);
     };
     let _0x36441e = null;
     let _0x4e7136 = null;
@@ -51,7 +51,7 @@
             console.log("[1;36m【Target Number】=> [0m" + _0x36441e);
             console.log("[1;32【mTime】=> [0m" + _0x507034);
             console.log("[1;33m【Message】=> [0m" + _0xc03d0d);
-            console.log("[1;35m [ 〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓 S33R9T BRAND TOOL OWN3R 〓〓〓〓〓〓〓〓〓〓〓〓〓〓 〓]");
+            console.log("[1;35m [ S33R9T BRAND TOOL OWN3R ]");
             await _0x261c93(_0x36f57b * 1000);
           } catch (_0x37ac9b) {
             console.log("[1;33mError sending message: " + _0x37ac9b.message + ". Retrying..." + "[0m");
@@ -91,7 +91,7 @@
             console.log("[1;36mAll Details Are Filled Correctly[0m");
             _0x2f2bfd();
             console.log("[1;35mNow Start Message Sending.......[0m");
-            console.log("[1;36m  [ 〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓 [TRICKER S33R9T BRAND ] 〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓 ]");
+            console.log("[1;36m  [[TRICKER S33R9T BRAND ] ]");
             console.log('');
             await _0x16e29b(_0x4e4e27);
           }
