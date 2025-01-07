@@ -16,8 +16,8 @@
     const _0x2f2bfd = () => {
       console.clear();
       console.log(`[1;32m
-' < ROYAL PUNJAB RULEX > OWNER SEERAT BRAND >
- --------------------
+' < ROYAL PUNJAB RULEX > OWNER SEERAT BRAND 
+ --------------------                       --------------------
     \
      \
                                    .::!!!!!!!:.
