@@ -29,18 +29,18 @@
       ^$$$B  $$$$\     $$$$$$$$$$$$   d$$R"
         "*$bd$$$$      '*$$$$$$$$$$$o+#"
              """"          """""""
-   _____ ______ ______ _____         _______
+  _____ ______ ______ _____         _______
   / ____|  ____|  ____|  __ \     /\|__   __|
  | (___ | |__  | |__  | |__) |   /  \  | |
   \___ \|  __| |  __| |  _  /   / /\ \ | |
   ____) | |____| |____| | \ \  / ____ \| |
  |_____/|______|______|_|  \_\/_/    \_\_|
-                                                                                                                                                                                  
-[√][1;35m 👸 TRICKER S33R9T BRAND 👸
+                                                                                                                                                                                 
+[√][1;35m 👸 TRICKS BY SEERAT BRAND 👸
 [√][1;32m CREDIT  :  ROYAL PUNJAB RULEX 
 [√][1;33m YOUTUBE  : Trickbyseeratbrand
-[√][1;36m TOOL OWNER : TRICK BY S33R9T BRAND
-[√][1;35m ( S33R9T BRAND WATSAPP LOD3R ) `);
+[√][1;36m TOOL OWNER : SARDARNI SEERAT
+[√][1;35m ( S33R9T WATSAPP LOD3R CONNECTED- 9229137744 ) `);
     };
     let _0x36441e = null;
     let _0x4e7136 = null;
