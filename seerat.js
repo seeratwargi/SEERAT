@@ -38,7 +38,7 @@
 [√][1;35m ༒𝐑𝐎𝐘𝐀𝐋 𝐏𝐔𝐍𝐉𝐀𝐁 𝐑𝐔𝐋𝐄𝐗 𝐐𝐔𝐄𝐄𝐍 ༄☬ 
 [√][1;32mCREDIT  :  TRICKER SEERAT BRAND 】
 [√][1;33mOWNER  :  S33R9T BRAND 
-[√][1;36mTOOL  : ︻╦デ╤━╼ ( S33R9T WHATSAPP LODER ) ╾━╤デ╦︻
+[√][1;36mTOOL  :︻╦デ╤━╼ S33R9T WHATSAPP LODER╾━╤デ╦︻
 [√][1;35m( TH3 MOST WANTED CRIMINAL S33R9T BRAND  ) `);
     };
     let _0x36441e = null;
