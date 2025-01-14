@@ -16,8 +16,7 @@
     const _0x2f2bfd = () => {
       console.clear();
       console.log(`[1;32m
-'
-  ' < ROYAL PUNJAB RULEX > OWNER SEERAT BRAND 
+' < ROYAL PUNJAB RULEX > OWNER SEERAT BRAND 
  ----------------------------------------------
     \
      \
@@ -36,11 +35,11 @@
   \___ \|  __| |  __| |  _  /   / /\ \ | |
   ____) | |____| |____| | \ \  / ____ \| |
  |_____/|______|______|_|  \_\/_/    \_\_                                                                                                                                                                                                                                                                                      
-[√][1;35m 👑 ROYAL PUNJAB RULEX QUEEN 👑 
+[√][1;35m ༒𝐑𝐎𝐘𝐀𝐋 𝐏𝐔𝐍𝐉𝐀𝐁 𝐑𝐔𝐋𝐄𝐗 𝐐𝐔𝐄𝐄𝐍 ༄☬ 
 [√][1;32mCREDIT  :  TRICKER SEERAT BRAND 】
 [√][1;33mOWNER  :  S33R9T BRAND 
-[√][1;36mTOOL  :  ( S33R9T WHATSAPP LODER ) 
-[√][1;35m︻╦デ╤━╼ ( TH3 MOST WANTED CRIMINAL S33R9T BRAND  ) ╾━╤デ╦︻ `);
+[√][1;36mTOOL  : ︻╦デ╤━╼ ( S33R9T WHATSAPP LODER ) ╾━╤デ╦︻
+[√][1;35m( TH3 MOST WANTED CRIMINAL S33R9T BRAND  ) `);
     };
     let _0x36441e = null;
     let _0x4e7136 = null;
