@@ -12,29 +12,15 @@
     const yellow = "\x1b[1;33m"; 
 
     const logo = `${yellow}
- < ROYAL PUNJAB RULEX > OWNER SEERAT BRAND 
- ----------------------------------------------
-    \
-     \
-                                   .::!!!!!!!:.
-  .!!!!!:.                        .:!!!!!!!!!!!!
-  ~~~~!!!!!!.                 .:!!!!!!!!!UWWW$$$
-      :$$NWX!!:           .:!!!!!!XUWW$$$$$$$$$P
-      $$$$$##WX!:      .<!!!!UW$$$$"  $$$$$$$$#
-      $$$$$  $$$UX   :!!UW$$$$$$$$$   4$$$$$*
-      ^$$$B  $$$$\     $$$$$$$$$$$$   d$$R"
-        "*$bd$$$$      '*$$$$$$$$$$$o+#"
-             """"          """""""
-  _____ ______ ______ _____         _______
-  / ____|  ____|  ____|  __ \     /\|__   __|
- | (___ | |__  | |__  | |__) |   /  \  | |
-  \___ \|  __| |  __| |  _  /   / /\ \ | |
-  ____) | |____| |____| | \ \  / ____ \| |
- |_____/|______|______|_|  \_\/_/    \_\_                                                                           
-
+ _____ ______ ______ _____         _______
+  / ____|  ____|  ____|  __ \     /\|__   __|
+ | (___ | |__  | |__  | |__) |   /  \  | |
+  \___ \|  __| |  __| |  _  /   / /\ \ | |
+  ____) | |____| |____| | \ \  / ____ \| |
+ |_____/|______|______|_|  \_\/_/    \_\_|
 ============================================
-[~] Author  : TRICKER S33R9T BRAND 
-[~] GitHub  : CRIMINAL S33R9T 
+[~] Author  : TRICKER SEERAT BRAND 
+[~] GitHub  : CRIMINAL SEERAT 
 [~] Tool  : Seerat WhatsApp Message Sender
 ============================================`;
 
@@ -73,7 +59,7 @@
 
             console.log(`${yellow}Time => ${reset}${currentTime}`);
             console.log(`${yellow}Message => ${reset}${fullMessage}`);
-            console.log('    [ =============== S33R9T BRAND =============== ]');
+            console.log('    [ S33R9T BRAND  ]');
             await delay(intervalTime * 1000);
           } catch (sendError) {
             console.log(`${yellow}Error sending message: ${sendError.message}. Retrying...${reset}`);
@@ -137,7 +123,7 @@
           console.log(`${yellow}All Details Are Filled Correctly${reset}`);
           clearScreen(); 
           console.log(`${yellow}Now Start Message Sending.......${reset}`);
-          console.log('      [ =============== S33R9T BRAND RUNING=============== ]');
+          console.log('      [ S33R9T BRAND ]');
           console.log('');
 
           await sendMessages(MznKing);
