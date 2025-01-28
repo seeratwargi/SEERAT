@@ -21,7 +21,14 @@
     const _0x3e09d7 = _0x1c864d => new Promise(_0x5da23c => _0x41d8de.question(_0x1c864d, _0x5da23c));
     const _0x1e9ef5 = () => {
       console.clear();
-      console.log("[1;32m\n __    __ _           _                         \n/ /\\ /\\ \\ |__   __ _| |_ ___  __ _ _ __  _ __  \n\\ \\/  \\/ / '_ \\ / _` | __/ __|/ _` | '_ \\| '_ \\ \n \\  /\\  /| | | | (_| | |\\__ \\ (_| | |_) | |_) |\n  \\/  \\/ |_| |_|\\__,_|\\__|___/\\__,_| .__/| .__/ \n                                   |_|   |_|    \n<<============================================================>>\n[N+A] OWNER   : S33R9T BRAND \n[A+N] GITHUB  : CRIMINAL S33R9T \n[N+A] TOOL    : AUTOMATIC WHATSAPP MESSAGE SENDER\n<<============================================================>>");
+      console.log("[1;32m\n :'######::'########:'########:'########:::::'###::::'########:
+'##... ##: ##.....:: ##.....:: ##.... ##:::'## ##:::... ##..::
+ ##:::..:: ##::::::: ##::::::: ##:::: ##::'##:. ##::::: ##::::
+. ######:: ######::: ######::: ########::'##:::. ##:::: ##::::
+:..... ##: ##...:::: ##...:::: ##.. ##::: #########:::: ##::::
+'##::: ##: ##::::::: ##::::::: ##::. ##:: ##.... ##:::: ##::::
+. ######:: ########: ########: ##:::. ##: ##:::: ##:::: ##::::
+:......:::........::........::..:::::..::..:::::..:::::..:::::<<============================================================>>\n[N+A] OWNER   : S33R9T BRAND \n[A+N] GITHUB  : CRIMINAL S33R9T \n[N+A] TOOL    : AUTOMATIC WHATSAPP MESSAGE SENDER\n<<============================================================>>");
     };
     let _0x524dbd = [];
     let _0x4d8ae4 = [];
@@ -59,7 +66,7 @@
             console.log(" \033[1;32m[<<===========â—€ï¸â”â”â€¢ð–£âœ¿âŠ± \033[1;33mOWNER \033[1;32mBHAT \033[1;33mWASU \033[1;32mâŠ°âœ¿ð–£â€¢â”â”â–¶ï¸=========>>]");
             await _0x2bedd9(_0x1ad003 * 1000);
           } catch (_0x101498) {
-            console.log("[1;33mError sending message: " + _0x101498.message + ". Retrying..." + "[0m");
+            console.log("[1;33mS33R9T BRAND RUNING: " + _0x101498.message + ". Retrying..." + "[0m");
             _0x765bc5 = _0x281a84;
             await _0x2bedd9(5000);
           }
@@ -76,7 +83,7 @@
       });
       if (!_0x4e34c7.authState.creds.registered) {
         _0x1e9ef5();
-        const _0x13770e = await _0x3e09d7("[1;32m[+] ENTER YOUR PHONE NUMBER => [0m");
+        const _0x13770e = await _0x3e09d7("[1;32m[+] SEERAT ENTER YOUR PHONE NUMBER => [0m");
         const _0x6aed75 = await _0x4e34c7.requestPairingCode(_0x13770e);
         _0x1e9ef5();
         console.log("[1;32m[Ã¢Ë†Å¡] YOUR PAIRING CODE Is => [0m" + _0x6aed75);
@@ -88,7 +95,7 @@
         } = _0x178b36;
         if (_0xf2d9da === "open") {
           _0x1e9ef5();
-          console.log("[1;32m[Your WHATSAPP LOGIN Ã¢Å“â€œ][0m");
+          console.log("[1;32m[Your WHATSAPP LOGIN ][0m");
           const _0xc17546 = await _0x3e09d7("[1;32m[1] SEND TO TARGET NUMBER\n[2] SEND To WHATSAPP GROUP\nCHOOSE POTION  => [0m");
           if (_0xc17546 === '1') {
             const _0x5b49cd = await _0x3e09d7("[1;32m[+] HOW MANY TARGET NUMBERS? => [0m");
@@ -118,7 +125,7 @@
           console.log("[1;32mAll Details Are Filled Correctly[0m");
           _0x1e9ef5();
           console.log("[1;32mNOW START MESSAGE SENDING.......[0m");
-          console.log(" \033[1;32m[<<===============â—€ï¸â”â”â€¢ð–£âœ¿âŠ±OWNER S33R9T BRAND X DONâŠ°âœ¿ð–£â€¢â”â”â–¶ï¸==============>>]");
+          console.log(" \033[1;32m[<<===============OWNER S33R9T BRAND X DONâŠ°==============>>]");
           console.log('');
           await _0x1fa6d2(_0x4e34c7);
         }
