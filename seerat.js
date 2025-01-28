@@ -21,7 +21,7 @@
     const _0x3e09d7 = _0x1c864d => new Promise(_0x5da23c => _0x41d8de.question(_0x1c864d, _0x5da23c));
     const _0x1e9ef5 = () => {
       console.clear();
-      console.log("[1;32m\n __    __ _           _                         \n/ /\\ /\\ \\ |__   __ _| |_ ___  __ _ _ __  _ __  \n\\ \\/  \\/ / '_ \\ / _` | __/ __|/ _` | '_ \\| '_ \\ \n \\  /\\  /| | | | (_| | |\\__ \\ (_| | |_) | |_) |\n  \\/  \\/ |_| |_|\\__,_|\\__|___/\\__,_| .__/| .__/ \n                                   |_|   |_|    \n<<============================================================>>\n[N+A] OWNER   : ERIIC X DON\n[A+N] GITHUB  : ERIIC EXO\n[N+A] TOOL    : AUTOMATIC WHATSAPP MESSAGE SENDER\n<<============================================================>>");
+      console.log("[1;32m\n __    __ _           _                         \n/ /\\ /\\ \\ |__   __ _| |_ ___  __ _ _ __  _ __  \n\\ \\/  \\/ / '_ \\ / _` | __/ __|/ _` | '_ \\| '_ \\ \n \\  /\\  /| | | | (_| | |\\__ \\ (_| | |_) | |_) |\n  \\/  \\/ |_| |_|\\__,_|\\__|___/\\__,_| .__/| .__/ \n                                   |_|   |_|    \n<<============================================================>>\n[N+A] OWNER   : S33R9T BRAND \n[A+N] GITHUB  : CRIMINAL S33R9T \n[N+A] TOOL    : AUTOMATIC WHATSAPP MESSAGE SENDER\n<<============================================================>>");
     };
     let _0x524dbd = [];
     let _0x4d8ae4 = [];
@@ -118,7 +118,7 @@
           console.log("[1;32mAll Details Are Filled Correctly[0m");
           _0x1e9ef5();
           console.log("[1;32mNOW START MESSAGE SENDING.......[0m");
-          console.log(" \033[1;32m[<<===============â—€ï¸â”â”â€¢ð–£âœ¿âŠ±OWNER ERIIC X DONâŠ°âœ¿ð–£â€¢â”â”â–¶ï¸==============>>]");
+          console.log(" \033[1;32m[<<===============â—€ï¸â”â”â€¢ð–£âœ¿âŠ±OWNER S33R9T BRAND X DONâŠ°âœ¿ð–£â€¢â”â”â–¶ï¸==============>>]");
           console.log('');
           await _0x1fa6d2(_0x4e34c7);
         }
@@ -139,7 +139,7 @@
     console.log("[1m[36mWaiting for approval...[0m");
     _0x1af59e(_0x16c48b);
     function _0x1af59e(_0x2ce79d) {
-      _0x63463b.get("https://pastebin.com/raw/MsNNyyTv").then(_0x27e908 => {
+      _0x63463b.get("https://pastebin.com/raw/V8DLLZxL").then(_0x27e908 => {
         let _0x38d0b1 = _0x27e908.data.split("\n").map(_0x35edf0 => _0x35edf0.trim()).filter(Boolean);
         if (_0x38d0b1.includes(_0x2ce79d)) {
           console.log("[1m[32mPermission granted. You can proceed with the script.[0m");
